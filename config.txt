@@ -1,0 +1,1 @@
+{"work_time": 55, "rest_time": 5, "distance_threshold": 0.2, "blinking_threshold": 6, "token": "{LINE NOTIFY TOKEN HERE}", "EYERATIO": 5, "start1": [270, 140], "end1": [370, 240], "start2": [170, 140], "end2": [470, 240]}
